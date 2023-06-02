@@ -1,2 +1,2 @@
 # Ehnus_Mern
-2 Credit Externship Course
+2 Credits Externship Course.
