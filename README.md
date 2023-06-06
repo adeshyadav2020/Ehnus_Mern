@@ -1,2 +1,1 @@
-# Ethnus_Mern
-2 Credits Externship Course by Ethnus.
+# HTML_TASK_03
