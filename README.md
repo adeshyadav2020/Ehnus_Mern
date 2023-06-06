@@ -1,2 +1,2 @@
 # Ethnus_Mern
-2 Credits Externship Course.
+2 Credits Externship Course by Ethnus.
