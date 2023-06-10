@@ -1,3 +1,2 @@
 # MernStack 
-2 credits externship course
-
+2 credits externship course.
